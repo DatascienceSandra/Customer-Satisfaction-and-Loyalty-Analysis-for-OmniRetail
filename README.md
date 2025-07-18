@@ -1,0 +1,2 @@
+# Customer-Satisfaction-and-Loyalty-Analysis-for-OmniRetail
+Here’s a 350-character summary of your paragraph including the keywords you provided:  > OmniRetail is a U.S. retail chain offering electronics and smart home products online and in-store. As Data Analyst, I explored 2024 feedback to uncover satisfaction and loyalty drivers by region, demographics, and support. Report built with ZoomCharts.
